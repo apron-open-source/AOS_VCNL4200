@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For CRC VCNL4200 Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+AOS_VCNL4200	KEYWORD1
+initialize	KEYWORD2
+getProximity	KEYWORD2
+getAmbient	KEYWORD2
+getProxHighInterrupt	KEYWORD2
+getProxLowInterrupt	KEYWORD2
+getInterruptFlag	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
